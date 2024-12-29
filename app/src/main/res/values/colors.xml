@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="warna_utama">#0F67B1</color>
+    <color name="warna_utama2">#3FA2F6</color>
+    <color name="warna_utama3">#0F67B1</color>
+    <color name="warna_background">#F8F9FE</color>
+</resources>
